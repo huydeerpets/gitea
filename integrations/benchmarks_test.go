@@ -9,7 +9,7 @@ import (
 	"net/http"
 	"testing"
 
-	"code.gitea.io/gitea/models"
+	"github.com/huydeerpets/gitea/models"
 	api "code.gitea.io/sdk/gitea"
 )
 

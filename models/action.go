@@ -15,10 +15,10 @@ import (
 	"unicode"
 
 	"code.gitea.io/git"
-	"code.gitea.io/gitea/modules/base"
-	"code.gitea.io/gitea/modules/log"
-	"code.gitea.io/gitea/modules/setting"
-	"code.gitea.io/gitea/modules/util"
+	"github.com/huydeerpets/gitea/modules/base"
+	"github.com/huydeerpets/gitea/modules/log"
+	"github.com/huydeerpets/gitea/modules/setting"
+	"github.com/huydeerpets/gitea/modules/util"
 	api "code.gitea.io/sdk/gitea"
 
 	"github.com/Unknwon/com"

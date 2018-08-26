@@ -7,7 +7,7 @@ import (
 	"testing"
 
 	"code.gitea.io/git"
-	"code.gitea.io/gitea/modules/setting"
+	"github.com/huydeerpets/gitea/modules/setting"
 
 	"github.com/stretchr/testify/assert"
 )

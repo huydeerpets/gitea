@@ -14,11 +14,11 @@ import (
 	"os"
 	"strings"
 
-	"code.gitea.io/gitea/modules/log"
-	"code.gitea.io/gitea/modules/markup/external"
-	"code.gitea.io/gitea/modules/setting"
-	"code.gitea.io/gitea/routers"
-	"code.gitea.io/gitea/routers/routes"
+	"github.com/huydeerpets/gitea/modules/log"
+	"github.com/huydeerpets/gitea/modules/markup/external"
+	"github.com/huydeerpets/gitea/modules/setting"
+	"github.com/huydeerpets/gitea/routers"
+	"github.com/huydeerpets/gitea/routers/routes"
 
 	"github.com/Unknwon/com"
 	context2 "github.com/gorilla/context"
